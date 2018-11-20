@@ -9,7 +9,7 @@ Objective: Demonstrate a working knowledge of Android application composition/va
 
 ### Extra Challenges
 
-* When the user rolls the die, by the provided dice roll sound (res/raw/shake_dice.mp3)
+* When the user rolls the die, play the provided dice roll sound (res/raw/shake_dice.mp3)
 
 * When the user rolls the die, simulate rolling of dice using TimerTasks or similar
 
